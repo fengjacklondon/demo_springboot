@@ -1,0 +1,9 @@
+com\fxh\service\UserService.class
+com\fxh\Application.class
+com\fxh\web\LoginController.class
+com\fxh\domain\LoginLog.class
+com\fxh\dao\UserDao$1.class
+com\fxh\domain\User.class
+com\fxh\dao\UserDao.class
+com\fxh\web\LoginCommand.class
+com\fxh\dao\LoginLogDao.class
